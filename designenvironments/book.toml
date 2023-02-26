@@ -1,0 +1,6 @@
+[book]
+authors = ["b0mtrady"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Design of Private Environments: A Geneaology of Digital Enclaves"
